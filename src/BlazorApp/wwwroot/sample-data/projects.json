@@ -1,18 +1,18 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "GitHub project repo:  Coding",
+    "description": "scratchpad where I stash various classes as I learn stuff about aspects of C#",
+    "url": "https://github.com/lee-anthony7/Coding"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "GitHub project repo:  BankAccount",
+    "description": "App derived from the learning course @ https://learn.microsoft.com/en-au/shows/csharp-101/?wt.mc_id=educationalcsharp-c9-scottha",
+    "url": "https://github.com/lee-anthony7/BankingCsharp"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "GitHub project repo:  ShoppingCart-via-C-Fritz",
+    "description": "cloned to GitHub code snippets from following-along https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXv32dOd36UydQYLejKR61R",
+    "url": "https://github.com/lee-anthony7/ShoppingCart-via-C-Fritz"
   },
   {
     "title": "GitHub Codespaces and github.dev",
